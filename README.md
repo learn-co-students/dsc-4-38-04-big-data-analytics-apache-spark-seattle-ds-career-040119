@@ -6,7 +6,7 @@
 Big Data Analytics is an emerging area of interest both for business and academia. There are a lot of details around the characteristics of big data and How Apache spark eases up the job of analyzing huge amounts of data using a simple programming paradigm. In this section we shall look at understanding and implementing a simple problem using MapReduce in Pyspark. Real world problems, however, are much more complicated than this and you should be able to scale up the takeaways from our simple word count example to much bigger problems. This lesson aims to provide you with a wider understanding on MapReduce and big data computation in Apache Spark Environment. 
 
 
-## Objectives:
+## Objectives
 You will be able to:
 - Understand the role of Apache Spark in Big Data analytics 
 - Get an understanding of Apache spark stack allowing abstraction of data and computation
@@ -18,7 +18,7 @@ In this lesson, you are required to read the following review article:
 ### Big data analytics on Apache Spark
 - International Journal of Data Science and Analytics
 - November 2016, Volume 1, Issue 3–4, pp 145–164
-- Salman SalloumEmail authorRuslan DautovXiaojun ChenPatrick Xiaogang PengJoshua Zhexue Huang
+- Authors: Salman Salloum, Ruslan Dautov, Xiaojun Chen, Patrick Xiaogang Peng, Joshua Zhexue Huang
 
 The article is available at 
 https://link.springer.com/article/10.1007/s41060-016-0027-9
@@ -29,3 +29,7 @@ https://link.springer.com/article/10.1007/s41060-016-0027-9
 
 You are expected to spend around 90 - 120 minutes reading this article. It is an excellent article and all the key aspects of spark computational environment are summarized and presented in an excellent manner. 
 
+
+## Summary
+
+In this lesson, you read the scientific article "Big data Analytics on Apache Spark", which covers the key aspects of Spark's computational environment.
