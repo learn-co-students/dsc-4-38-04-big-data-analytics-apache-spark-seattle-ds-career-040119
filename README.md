@@ -1,5 +1,5 @@
 
-# Big data analytics on Apache Spark
+# Big Data Analytics on Apache Spark
 
 ## Introduction
 
