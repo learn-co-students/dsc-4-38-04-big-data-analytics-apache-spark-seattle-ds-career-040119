@@ -23,7 +23,8 @@ In this lesson, you are required to read the following review article:
 The article is available at 
 https://link.springer.com/article/10.1007/s41060-016-0027-9
 
-*"In this paper, we present a technical review on big data analytics using Apache Spark. This review focuses on the key components, abstractions and features of Apache Spark. More specifically, it shows what Apache Spark has for designing and implementing big data algorithms and pipelines for machine learning, graph analysis and stream processing. In addition, we highlight some research and development directions on Apache Spark for big data analytics."* - from the abstract. 
+*"In this paper, we present a technical review on big data analytics using Apache Spark. This review focuses on the key components, abstractions and features of Apache Spark. More specifically, it shows what Apache Spark has for designing and implementing big data algorithms and pipelines for machine learning, graph analysis and stream processing. In addition, we highlight some research and development directions on Apache Spark for big data analytics."* - from the abstract. Here is an image from the paper giving a general overview of how the spark ecosystem functions:
+
 
 ![](spark.gif)
 
